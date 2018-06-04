@@ -18,8 +18,9 @@ This script launch the turning off procedure of a Raspberry Pi when a button con
 1. Create a folder named bin/ under home/pi/
 2. Put the shutdown-press-simple.py script file into it
 3. sudo chmod a+x shutdown-press-simple.py
-3. $ sudo su
+4. $ sudo su
    ```# echo '~pi/shutdown-press-simple.py'  >> /etc/rc.local```
+   
 Enjoy!
 
 ## Authors
